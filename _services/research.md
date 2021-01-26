@@ -4,7 +4,7 @@ title: Research
 permalink: /services/research/
 image:
     path: /assets/images/titian.jpg
-    thumbnail: /assets/images/titian.jpg
+    thumbnail: /assets/images/thumbs/titian_thumb.jpg
     caption: "A caption here"
 
 sorting: "d"
