@@ -12,7 +12,8 @@ sorting: "c"
 ---
 
 **Novel approaches for understanding art and recreating environments**
-<br />
+
+
 <br />
 #### National Gallery X and Playlines
 <br />
