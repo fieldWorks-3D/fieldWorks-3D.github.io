@@ -14,7 +14,7 @@ permalink: /
 title: Welcome
 
 
-sub_title: "FieldWorks is a creative lab, using digital methods for heritage visualisation using 2D, 3D and XR, on the web and beyond the web."
+sub_title: "FieldWorks is a small, creative lab, using digital techniques for heritage visualisation in 2D, 3D and XR, on the web and beyond the web."
 
 ---
 

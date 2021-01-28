@@ -11,6 +11,6 @@ sorting: "a"
 
 ---
 
-Creating original 3D content with open-source software
+**Creating original 3D content**
 
 

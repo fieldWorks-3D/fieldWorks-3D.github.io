@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+FieldWorks is the creative identity of me, Neil Jakeman, a Senior Research Software Analyst working in the Digital Humanities for the Faculty of Arts and Humanities at King's College London.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I've been developing digital research outputs for over a decade with global university partners in domains as diverse as medieval French literature and Bronze Age metallurgy. I lead many digital creative initiatives in the college and I lecture occasionally on the uses of GIS, VR and 3D tech in research.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I've also developed many web-based map resources and databases, both in academia and as an environmental consultant.
 
+I have a rich set of technical and creative skills, and a broad network of collaborators.
 
-[jekyll-organization]: https://github.com/jekyll
+If you'd like to get in touch, please contact me via e-mail at info@field.works.
