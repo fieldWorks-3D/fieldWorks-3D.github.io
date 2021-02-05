@@ -11,6 +11,6 @@ sorting: "a"
 
 ---
 
-**Creating original 3D content**
+## Creating original 3D content
 
 

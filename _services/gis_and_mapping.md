@@ -11,20 +11,16 @@ sorting: "d"
 
 ---
 
-**Spatial analysis and cartography**
+## Spatial analysis and cartography
 
-Before 3D caught my eye, I was always a fan of maps in all their various formats from calf-skin to digital. Consequently, I hold an MSc in Geographic Information Systems and I worked for several years for environmental consulting companies. 
+I've always been a fan of maps in all their various formats, from calf-skin to digital. Consequently, I hold an <strong>MSc in Geographic Information Systems</strong> and I worked for several years for environmental consulting companies. Since then I've developed many research web mapping services, of which a small selection are linked to below.
 
 <br />
-#### Linguistic Geographies: Gough Map of Great Britain
+#### Linguistic Geographies: The Gough Map of Great Britain
 
 Joining KCL in 2011 gave me a chance to explore the earliest map of the UK (at least in a vaguely recognisable form) as part of the Linguistic Geographies project. For my part in the project, I brought the amazing Gough Map into a web interface, to be freely explored and examined but also making expert curation available
 
 [![Gough Map](/assets/images/gough_map.jpg){: .align-left}](http://www.goughmap.org/)
-
-<br />
-<br />
-<br />
 <br />
 #### Atlantic Europe in the Metal Ages
 

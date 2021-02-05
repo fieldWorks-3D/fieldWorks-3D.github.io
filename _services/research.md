@@ -11,7 +11,7 @@ sorting: "c"
 
 ---
 
-**Novel approaches for understanding art and recreating environments**
+## Novel approaches for understanding art and recreating environments
 
 
 <br />
