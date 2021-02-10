@@ -19,7 +19,10 @@ sub_title: "FieldWorks is a small, creative lab, using digital techniques for he
 ---
 
 
-## Work
+## Recent Work
+
+The links below show a small selection of projects. Please get in touch if you'd like to develop a new project
+{: .intro-subtitle}
 
 
 

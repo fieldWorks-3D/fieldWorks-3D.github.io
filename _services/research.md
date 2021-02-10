@@ -7,7 +7,7 @@ image:
     thumbnail: /assets/images/thumbs/titian_thumb.jpg
     caption: "A caption here"
 
-sorting: "c"
+sorting: "b"
 
 ---
 
