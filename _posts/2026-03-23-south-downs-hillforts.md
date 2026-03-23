@@ -5,6 +5,7 @@ date: 2026-03-23 09:00:00 +0000
 categories: landscape archaeology
 tags: [hillforts, iron-age, south-downs, lidar, spatial-analysis]
 excerpt: "Five hillforts on the chalk ridge above the coastal plain — Cissbury Ring, Mount Caburn, Wolstonbury Hill, Chanctonbury Ring, Devil's Dyke. What they are, what they might have meant, and why they still pull people up the hill."
+image: /assets/images/cissbury_mixed_colour.jpg
 ---
 
 Drive west from Brighton along the A27, and the South Downs are always there on your right — the long chalk ridge that runs parallel to the coast, rising and falling. From the dual carriageway they look unremarkable: rounded, green, treeless except for the occasional planted clump. But if you stop driving and start walking, if you get up onto that ridge and look back south to the sea and north across the Weald, and if you know what to look for in the grass and the earthworks, the landscape starts to speak differently.
@@ -58,6 +59,20 @@ The Dyke is different again. The hillfort here is a promontory fort — rather t
 The dyke itself — the great dry valley that cuts into the escarpment — is natural, formed by periglacial processes at the end of the last ice age, when freeze-thaw cycles and meltwater carved the chalk. It is one of the most dramatic landscape features in southern England, a deep V-shaped notch that looks engineered but isn't. The folklore around it is predictable: the devil dug it, intending to cut a channel to the sea to flood the churches of the Weald and undo the work of Christian missionaries. He was interrupted — by a woman holding a candle (mistaken for the sunrise), or by a cock crowing — and abandoned the work. The valley remains unfinished.
 
 The Victorian period turned Devil's Dyke into a tourist attraction with a funicular railway and a hotel. That layer has mostly been scraped away. What remains is the earthwork, the extraordinary view, and the deep cut of the valley that makes people want to explain it with stories.
+
+---
+
+## Mount Caburn
+
+Mount Caburn sits at the eastern end of the group, and it is the odd one out in several respects. The hill rises above the Ouse valley just west of Lewes, detached from the main escarpment in the same way Wolstonbury is — a standalone chalk summit rather than a point on the continuous ridge. Below it, the River Ouse cuts through the Downs in one of the few natural gaps along the whole length of the ridge. That gap matters. It is where movement north-south was easiest, and Caburn's position above it is not coincidental.
+
+The enclosed area is modest — roughly three hectares, a fraction of Cissbury — but what Caburn lacks in scale it makes up for in stratigraphic complexity. The site was significantly refortified in the late Iron Age, probably in the 1st century BC, with the rampart rebuilt and the ditch recut on a larger scale. This late phase stands out against the other sites in this group, most of which see their main activity in the earlier Iron Age. Something was happening at Caburn in the decades before and after the Roman conquest that either didn't happen at the other forts, or isn't visible there yet.
+
+The ceramic evidence supports this. Caburn has produced Aylesford-Swarling type pottery — a late Iron Age tradition associated with the southeast and with cultural connections across the Channel into the Belgic sphere of northern Gaul. This is the cultural world that was most directly in contact with the Roman world before the conquest of AD 43, and it makes Caburn feel like a different kind of place: connected eastward and outward, downstream along the Ouse and beyond, rather than simply occupying the chalk ridge.
+
+There is also the question of what lies below. The Ouse valley floor is low-lying and was seasonally flooded into historical times. Looking down from the Caburn summit, especially in winter light when the valley floods and the water reads silver against the chalk, the landscape makes a kind of visual argument about itself: the hill above, the river below, the gap in the chalk as a threshold between the chalk downland and the low Weald. The fort marks that threshold from above.
+
+Lewes itself, which grew up at the foot of the hill in the Saxon and medieval periods, occupies essentially the same strategic position. Caburn was not the last word on this particular piece of ground.
 
 ---
 
