@@ -53,6 +53,8 @@ h4,
 h5,
 h6 {
   font-family: $headline-font-family;
+  font-weight: normal; /* IM Fell English has no bold variant; prevent browser synthesis */
+  font-style: normal;
   text-rendering: optimizeLegibility; /* enable common ligatures and kerning */
 }
 

@@ -9,8 +9,9 @@
   padding-right: calc(
     10vw + (2 * #{$navicon-width})
   ); /* make room for sidebar toggle */
-  font-family: $base-font-family;
-  font-weight: bold;
+  font-family: $headline-font-family;
+  font-weight: normal; /* IM Fell English has no bold variant */
+  font-style: normal;
   line-height: 1;
 
   @include breakpoint($medium) {
