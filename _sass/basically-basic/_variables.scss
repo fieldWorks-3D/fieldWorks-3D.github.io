@@ -42,14 +42,10 @@ $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Base font family */
-/* $base-font-family: "Fira Sans", sans-serif !default; */
-$base-font-family: "Roboto Slab","Playfair Display", sans-serif !default;
+$base-font-family: "Lato", sans-serif !default;
 /* Other font families */
-/* $headline-font-family: $base-font-family !default; */
-$headline-font-family: "Major Mono Display" !default; 
-/* $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, */
-/* monospace !default; */
-$monospace-font-family: Major Mono Display, Consolas, Monaco, "Courier New", Courier, monospace !default;
+$headline-font-family: "IM Fell English", Georgia, serif !default;
+$monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
 
 /* Colors */

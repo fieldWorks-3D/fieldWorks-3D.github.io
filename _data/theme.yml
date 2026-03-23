@@ -26,14 +26,10 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Roboto Slab"
-    weights: "400,400i,600,600i"
-  - name: "Courier Prime"
-    weights: "400,400i,600,600i"    
-  - name: "Major Mono Display"
-    weights: "400,400i,600,600i"       
-  - name: "Playfair Display"
-    weights: "400,400i,600,600i"        
+  - name: "IM Fell English"
+    weights: "400,400i"
+  - name: "Lato"
+    weights: "300,300i,400,400i,700,700i"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
