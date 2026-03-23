@@ -1,0 +1,56 @@
+---
+# Front matter required for Jekyll to process this file
+---
+
+@charset "utf-8";
+
+// Google Fonts — IM Fell English (headings) + Lato (body)
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap");
+
+@import "basically-basic";
+
+// -------------------------------------------------------
+// Typography overrides — heritage field journal tone
+// -------------------------------------------------------
+
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6,
+.site-title,
+.page-title,
+.entry-title {
+  font-family: "IM Fell English", Georgia, serif;
+  font-weight: 400; // IM Fell has no bold weight — normal is sufficient
+  letter-spacing: 0.01em;
+}
+
+// Site title in the header — give it a little extra breathing room
+.site-title {
+  letter-spacing: 0.04em;
+}
+
+// Post/page titles — let IM Fell do its work at display size
+.page-title,
+.entry-title {
+  line-height: 1.2;
+}
+
+// Slightly heavier body weight on longer prose
+.entry-content p,
+.page-content p {
+  font-weight: 400;
+}
+
+// Navigation links — keep Lato clean
+.nav-list a,
+.toc-list a {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  font-size: 0.85em;
+}
