@@ -20,12 +20,11 @@
 
 title: fieldWorks
 email: info@field.works
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >-
+  A personal journal and portfolio at the intersection of GIS, LiDAR, prehistoric
+  landscape, and the long human association with land. By Neil Jakeman.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://field.works"
 # twitter_username: fieldworks
 github_username:  fieldWorks-3D
 sketchfab_username: fieldworks
