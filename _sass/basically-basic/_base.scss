@@ -116,3 +116,35 @@ a {
 //   outline: none;
 //   box-shadow: 0 0 10px $accent-color;
 // }
+
+hr {
+  position: relative;
+  border: none;
+  border-top: 1px solid $border-color;
+  margin-top: 2rem;
+  margin-bottom: 3rem; /* extra gap before whatever follows */
+
+  &::before,
+  &::after {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: $background-color;
+    padding: 0 0.4em;
+    color: tint($text-color, 55%);
+    font-family: $headline-font-family;
+    font-style: normal;
+    font-size: 1rem;
+    line-height: 1;
+  }
+
+  &::before {
+    content: '❧'; /* hedera / ivy leaf — printer's ornament, c.15th century */
+    left: 0;
+  }
+
+  &::after {
+    content: '❦'; /* rotated hedera */
+    right: 0;
+  }
+}
