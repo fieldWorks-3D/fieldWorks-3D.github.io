@@ -25,6 +25,10 @@ description: >-
   landscape, and the long human association with land. By Neil Jakeman.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://field.works"
+
+author:
+  name: Neil Jakeman
+  email: info@field.works
 # twitter_username: fieldworks
 github_username:  fieldWorks-3D
 sketchfab_username: fieldworks
@@ -40,6 +44,8 @@ logo: /henge-bw-logo.png
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
