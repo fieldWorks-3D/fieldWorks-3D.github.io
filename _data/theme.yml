@@ -28,8 +28,8 @@ t:
 google_fonts:
   - name: "IM Fell English"
     weights: "400,400i"
-  - name: "Lato"
-    weights: "300,300i,400,400i,700,700i"
+  - name: "Crimson Pro"
+    weights: "300,300i,400,400i,600,600i"
 
 # Link to specific internal pages in the navigation.
 # Create a custom list to override the default setting of including links to all
