@@ -139,12 +139,12 @@ hr {
   }
 
   &::before {
-    content: '❧'; /* hedera / ivy leaf — printer's ornament, c.15th century */
+    content: '☽'; /* First quarter */
     left: 0;
   }
 
   &::after {
-    content: '❦'; /* rotated hedera */
+    content: '☾'; /* Last quarter */
     right: 0;
   }
 }
